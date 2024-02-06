@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "smlexample:block/rco",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "smlexample:block/rco"
+    },
+    "facing=south": {
+      "model": "smlexample:block/rco",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "smlexample:block/rco",
+      "y": 270
+    }
+  }
+}
