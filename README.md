@@ -1,1 +1,1 @@
-Use it freely
+Use this mod freely
